@@ -1,0 +1,13 @@
+.nav-bar {
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    top: 0;
+    position: fixed;
+    z-index: 8;
+    background: #1d1d1d;
+    overflow: hidden;
+    color: #919191;
+    border-bottom: 1px solid #2f2f2f;
+    backface-visibility: hidden;
+}
